@@ -1,1 +1,1 @@
-HELLO²
+HELLO
